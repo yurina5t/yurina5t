@@ -6,7 +6,7 @@
 
 💻📊📈🧐 Умею анализировать данные в Python, применяю SQL для работы с аналитическими базами данных, работаю с командной строкой и Git, знаю статистику, есть опыт проведения A/A и A/B тестов, применяю ML-алгоритмы для решения аналитических задач, имею навыки визуализации данных и работы с BI-системами 📊, автоматизирую отчетность на Python в Airflow и строю систему алертов (поиск аномалий) 📈📉.
 
-🏆 Принимаю участие в соревнованиях на Kaggle, где в конкурсе по Прогнозированию цен на электроэнергию заняла 🥉 3️⃣ место. ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
+🏆 Принимаю участие в соревнованиях на Kaggle, где в конкурсе по Прогнозированию цен на электроэнергию заняла 🥉 3️⃣ место. ![Kaggle](https://img.shields.io/badge/Kaggle-00BFFF?style=for-the-badge&logo=kaggle&logoColor=white)
 
 🔎 За числами нахожу данные, которые помогают в развитии продукта.
 
@@ -19,15 +19,16 @@
 
 🛠️ Языки и инструменты :   
  ClickHouse  Redash 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)   
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)   
 
-💾 __Databases__: ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![ClickHouse](https://img.shields.io/badge/clickhouse-FFCC01.svg?style=for-the-badge&logo=clickhouse&logoColor=black)
+💾 __Databases__: ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4169E1.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![ClickHouse](https://img.shields.io/badge/clickhouse-FFCC01.svg?style=for-the-badge&logo=clickhouse&logoColor=black)
 
 🗄️ __Servers__: ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)    
 
-💻 __IDEs__: ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)    
+💻 __IDEs__: ![Jupyter Notebook](https://img.shields.io/badge/jupyter-FF8C00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)    
 
-🕓 __Version Control__: ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+🕓 __Version Control__: ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=red)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
 Умею анализировать данные в Python ( Seaborn, Scikitlearn, ), применяю SQL для работы с аналитическими базами данных (ClickHouse, ), работаю с командной строкой и Git, знаю статистику, есть опыт проведения A/A и A/B тестов, применяю ML-алгоритмы для решения аналитических задач, имею навыки визуализации данных и работы с BI-системами (Superset, Redash, Tableau).
